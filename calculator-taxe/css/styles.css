@@ -1,0 +1,17 @@
+h1, h3, p, a, a.nav-link {
+    color: black ;
+}
+
+.active {
+    text-decoration: underline;
+    padding-bottom: 3px !important;
+    color: #FF8C00 !important;
+}
+
+body {
+    background-image:url("../img/greyzz.png");
+}
+
+.bg-warning{
+    background-color: #ffbb68 !important;
+}
